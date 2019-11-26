@@ -1,0 +1,15 @@
+# Chart
+[中文](https://github.com/dzp181/Chart/blob/master/README.md)
+
+* ios-charts: A powerful charting framework, [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) ported on iOS. ★ [官 网](https://github.com/danielgindi/ios-charts)
+* JTChartView: JTChartView is a fully customizable lightweight charting solution. [Official Website](https://github.com/kubatru/JTChartView)
+* PNChart: A simple and beautiful charting library, used by Pinner and CoinsMan's iOS clients. [Official Website](https://github.com/kevinzhow/PNChart)
+* BEMSimpleLineGraph: Elegant line graph framework. [Official Website](https://github.com/Boris-Em/BEMSimpleLineGraph)
+* JBChartView: iOS-based charting library, including line and histograms. [Official Website](https://github.com/Jawbone/JBChartView)
+* XYPieChart: An animated pie chart framework. [Official Website](https://github.com/xyfeng/XYPieChart)
+* TEAChart: Easy-to-use chart library for iOS. Includes contribution graph, clock graph, and histogram. [Official Website](https://github.com/xhacker/TEAChart)
+* EChart: iOS / iPhone / iPad chart. Provides event handling and animation support. [Official Website](https://github.com/zhuhuihuihui/EChart)
+* FSLineChart: An iOS polyline gallery. [Official Website](https://github.com/ArthurGuibert/FSLineChart)
+* chartee: A charting library designed for mobile platforms. [Official Website](https://github.com/zhiyu/chartee)
+* ANDLineChartView: Use ANDLineChartView to conveniently display animated line charts in the view class. [Official Website](https://github.com/anaglik/ANDLineChartView)
+* TWRCharts: An iOS package of ChartJS. Conveniently build animated charts with Obj-C native code. [Official Website](https://github.com/chasseurmic/TWRCharts)
