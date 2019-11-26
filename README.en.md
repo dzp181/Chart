@@ -1,7 +1,7 @@
 # Chart
 [中文](https://github.com/dzp181/Chart/blob/master/README.md)
 
-* ios-charts: A powerful charting framework, [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) ported on iOS. ★ [官 网](https://github.com/danielgindi/ios-charts)
+* ios-charts: A powerful charting framework, [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) ported on iOS. ★ [Official Website](https://github.com/danielgindi/ios-charts)
 * JTChartView: JTChartView is a fully customizable lightweight charting solution. [Official Website](https://github.com/kubatru/JTChartView)
 * PNChart: A simple and beautiful charting library, used by Pinner and CoinsMan's iOS clients. [Official Website](https://github.com/kevinzhow/PNChart)
 * BEMSimpleLineGraph: Elegant line graph framework. [Official Website](https://github.com/Boris-Em/BEMSimpleLineGraph)
